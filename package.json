@@ -89,7 +89,7 @@
     "path": "^0.12.7",
     "process": "^0.11.10",
     "readable-stream": "^4.5.2",
-    "rimraf": "^5.0.5",
+    "rimraf": "^6.1.0",
     "rollup-plugin-sourcemaps": "^0.6.3",
     "setimmediate": "^1.0.5",
     "stream-http": "^3.2.0",
